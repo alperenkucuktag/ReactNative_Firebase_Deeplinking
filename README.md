@@ -1,1 +1,1 @@
-# ReactNative_Firebase_Deeplinking
+# ReactNative_Firebase_NoteApp
